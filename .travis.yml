@@ -3,8 +3,8 @@ before_script:
 script: gulp test
 language: node_js
 env:
-    - PORT= 8080
+    - PORT=8080
 node_js:
     - "5.1"
     - "4"
-    - "3"
+    
